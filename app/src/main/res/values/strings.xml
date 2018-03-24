@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cart Share</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Enter UserId</string>
+    <string name="password">Enter Password</string>
+    <string name="rePassword">Confirm Password</string>
+    <string name="email">Enter Email</string>
+    <string name="SecQS">Enter Security Question</string>
+    <string name="SecAns">Enter Security Answer</string>
+    <string name="lblFirstName">First Name</string>
+    <string name="lblLastName">Last Name</string>
+    <string name="lblusername">UserId</string>
+    <string name="lblpassword">Password</string>
+    <string name="lblSecQS">Security Question</string>
+    <string name="lblSecAns">Security Answer</string>
+    <string name="lblemail">Email</string>
+    <string name="or">OR</string>
+    <string name="delete">Delete</string>
+</resources>
